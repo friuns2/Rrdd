@@ -1,0 +1,5 @@
+            - name: capacitor-android-action
+  # You may pin to the exact commit or the version.
+  # uses: Narottam04/action-capacitor-android@3f81e6a3083b7aa9061ef0fce9bcab1d4124f1fc
+  uses: Narottam04/action-capacitor-android@v1.0.0
+          
